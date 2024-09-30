@@ -1,0 +1,111 @@
+ 
+body {
+ color: white;
+ background-color: pink;
+ margin: 0px;
+    font-family: "DM Serif Text", serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 5px rgb(246, 164, 178);
+    padding: 20px;
+    font-size: 32px;
+    color: white;
+
+}
+
+.giff img {
+    height: 60px;
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.gif2 img {
+    height: 60px;
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.gif3 img {
+    height: 60px;
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.chamada {
+    background-color: rgb(246, 164, 178);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+img{
+    height: 200px;
+}
+
+.exp{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 7px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+font-size: 37px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.exp{
+    font-size: 23px;
+    margin-right: 5%;
+}
+.expp{
+ font-size: 20px;
+ margin-right: 5%;
+}
+
+
+.categoria-videos img {
+    opacity: 0.5;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 1px solid white;
+
+}
+
+.generos {
+    background-color: rgb(246, 164, 178);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.explic{
+    padding-top: 80px;
+    margin-right: 5%;
+}
